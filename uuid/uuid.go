@@ -15,7 +15,7 @@ import (
     "net"
     "time"
 
-    "github.com/QTAB/gocql"
+    "github.com/lshift/gocql"
 )
 
 type UUID [16]byte
